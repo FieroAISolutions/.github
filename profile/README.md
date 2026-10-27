@@ -1,20 +1,32 @@
 # Fiero AI Solutions
 
-Practical AI, automation, cybersecurity, and technology solutions for small businesses.
+**Practical AI, automation, and cybersecurity for small businesses.**
 
-We build and maintain tools that help organizations automate repetitive work, understand security risks, and operate more efficiently.
+Fiero AI Solutions builds technology that helps small organizations strengthen security, reduce repetitive work, and explore AI responsibly—without requiring an enterprise-sized IT team.
 
-## Focus areas
+## What we work on
 
-- AI-enabled workflow automation
-- Cybersecurity assessment and monitoring
-- Business process improvement
-- Custom software and systems integration
+- **Cybersecurity and visibility:** network discovery, vulnerability assessment, patch auditing, and breach monitoring
+- **Business automation:** practical tools for repetitive file and operational workflows
+- **AI solutions in development:** AI-enabled workflows, autonomous agents, and custom integrations
 
-## Featured projects
+Our public repositories below demonstrate security and automation software. They should not be interpreted as AI-powered applications unless explicitly documented as such.
 
-- [Pentest App](https://github.com/FieroAISolutions/pentest-app) — Self-hosted network security scanning and authenticated patch auditing.
-- [Dark Web Scanner](https://github.com/FieroAISolutions/dark-web-scanner) — Self-hosted breach monitoring with scheduled scans, reports, and alerts.
-- [Folder Cleanup](https://github.com/FieroAISolutions/folder-cleanup) — Safe file organization, deduplication, preview, and recovery workflows.
+## Explore our public projects
 
-Learn more at [fieroaisolutions.com](https://fieroaisolutions.com).
+| Project | What it offers | Status |
+| --- | --- | --- |
+| [PenTestingApp](https://github.com/FieroAISolutions/pentest-app) | Self-hosted network scanning, authenticated patch audits, vulnerability tracking, and reporting | Beta |
+| [DarkWebScanner](https://github.com/FieroAISolutions/dark-web-scanner) | Self-hosted Have I Been Pwned monitoring, scheduled checks, reports, and notifications | Open source |
+| [FolderCleanup](https://github.com/FieroAISolutions/folder-cleanup) | Local file organization and duplicate review with preview and recovery safeguards | Open source |
+
+## Start here
+
+Each project repository includes setup instructions and important security guidance. Review the README before deploying; use the tools only on systems and accounts you own or are authorized to assess.
+
+## Connect
+
+- **Website:** [fieroaisolutions.com](https://fieroaisolutions.com)
+- **GitHub:** [FieroAISolutions](https://github.com/FieroAISolutions)
+
+We welcome constructive feedback and contributions through the individual repositories.
